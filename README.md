@@ -32,10 +32,6 @@ Have you found a useful resource or want to enhance this repository? Contributio
 2. Add your resources or update existing sections
 3. Submit a Pull Request with a clear description of your changes
 
-## License
-
-This repository is licensed under the [MIT](LICENSE) license. You are free to use and share the resources provided here.
-
 ## Acknowledgements
 
 Thank you to all contributors and the CTF community for sharing knowledge and enthusiasm!
